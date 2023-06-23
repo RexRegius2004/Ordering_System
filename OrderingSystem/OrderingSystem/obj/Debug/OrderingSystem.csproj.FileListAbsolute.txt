@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe.config
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.exe
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\bin\Debug\OrderingSystem.pdb
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.exe
+C:\Users\Gigabyte\source\repos\OrderingSystem\OrderingSystem\obj\Debug\OrderingSystem.pdb
