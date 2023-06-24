@@ -22,6 +22,7 @@ namespace OrderingSystem
             randomNumber = rand.Next(1, 100);
             Console.WriteLine("Order Number:" + randomNumber);
 
+
         }
 
 

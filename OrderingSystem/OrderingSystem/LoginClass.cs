@@ -10,7 +10,7 @@ namespace OrderingSystem
     {
         public static int attempts = 0;
         public static int pin = 1111;
-        public static int quantity;
+        
         public static void Login()
         {
             Console.WriteLine("Welcome to Improved A&As");
@@ -23,6 +23,7 @@ namespace OrderingSystem
             int enterpin = Convert.ToInt32(Console.ReadLine());
             if (enterpin == pin)
             {
+                Console.Clear();
                 MenuClass menuClass = new MenuClass();
                 MenuClass.Menu();
 
